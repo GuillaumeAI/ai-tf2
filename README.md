@@ -2,8 +2,8 @@
 
 * GuillaumeAI/tf:2.3.1
 * GuillaumeAI/tf:latest
-* GuillaumeAI/tft:1.12.0
-* GuillaumeAI/tft:1.12.0-cpu
+* GuillaumeAI/tf:1.12.0
+* GuillaumeAI/tf:1.12.0-cpu
 * See currentle pushed tags on Dockerhub  [GuillaumeAI/tf:*](https://hub.docker.com/repository/docker/guillaumeai/tf/general)
 
 ----
